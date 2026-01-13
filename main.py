@@ -28,4 +28,4 @@ async def sophia(ctx):
     await ctx.send(file=discord.File("banner.png"))
 
 bot.run(os.getenv("DISCORD_TOKEN"))
-#deploy
+# deploy
