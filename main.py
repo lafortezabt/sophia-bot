@@ -27,4 +27,4 @@ async def help(ctx):
 async def sophia(ctx):
     await ctx.send(file=discord.File("banner.png"))
 
-bot.run(os.getenv("MTQ2MDM5Njc0MzA3NzM5NjY5Mw.Gsm9jj.EnyUvhX3kHBQdeu_b0y2k5890jIOYgq-BKTeV8"))
+bot.run(os.getenv("DISCORD_TOKEN"))
